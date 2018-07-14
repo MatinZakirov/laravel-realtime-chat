@@ -3,6 +3,7 @@
 <li>Message Sending Time</li>
 <li>Typing... Notification</li>
 <li>User Joined or Left Notification</li>
+<li>Users online count</li>
 
 
 
