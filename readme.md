@@ -1,3 +1,14 @@
+<h1>Realtime Chat </h1>
+<ul>
+<li>Message Sending Time</li>
+<li>Typing... Notification</li>
+<li>User Joined or Left Notification</li>
+
+
+
+</ul>
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
